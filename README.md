@@ -1,3 +1,6 @@
+Hi :D
+Just a kid who _wants_ to program, but _can't_... (┬┬﹏┬┬)
+
 <!-- # Hi there! 👋 I'm Nithya
 
 Welcome to my GitHub profile! I'm a **Year 12 student** passionate about **AI, quantum engineering, and full-stack development** 🚀
