@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Nithya
+<!-- # Hi there! 👋 I'm Nithya
 
 Welcome to my GitHub profile! I'm a **Year 12 student** passionate about **AI, quantum engineering, and full-stack development** 🚀
 
@@ -7,16 +7,16 @@ Welcome to my GitHub profile! I'm a **Year 12 student** passionate about **AI, q
 ## 🚀 About Me
 - 🎓 Aspiring **Computer Science & Quantum Engineering** double-degree student at UNSW.
 - 💡 Interested in **AI, quantum computing, and software development**.
-- 🛠️ Currently working with **Django, Python, and Raspberry Pi projects**.
+- 🛠️ Currently working with **Django, Python, and Raspberry Pi projects**. -->
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) -->
 
 ---
 
@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a **Year 12 student** passionate about **AI, q
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nithy&theme=radical&hide_border=true)
+<!-- ## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nithy&theme=radical&hide_border=true) -->
 
 ---
 
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a **Year 12 student** passionate about **AI, q
 
 ---
 
-_Thanks for stopping by! Feel free to check out my projects and connect._ ✨
+<!-- _Thanks for stopping by! Feel free to check out my projects and connect._ ✨ -->
 
 
 
